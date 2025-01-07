@@ -1,0 +1,4 @@
+name: when-drupal-reacts
+recipe: drupal11
+config:
+  webroot: web/
